@@ -9,12 +9,12 @@
 
 gatsby version of startbootstrap-agency with i18n supported.
 
-[![dependencies Status](https://david-dm.org/thundermiracle/gatsby-startbootstrap-agency/status.svg)](https://david-dm.org/thundermiracle/gatsby-startbootstrap-agency)
+[![dependencies Status](https://david-dm.org/taghp/gatsbyV3-startbootstrap-agency/status.svg)](https://david-dm.org/taghp/gatsbyV3-startbootstrap-agency)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0a8bfd50-2bd5-43a6-bacd-51e5efc1f248/deploy-status)](https://app.netlify.com/sites/gatsby-startbootstrap-agency/deploys)
 
 ## Preview
 
-![startbootstrap-agency](https://github.com/thundermiracle/gatsby-startbootstrap-agency/blob/screenshot/screenshot/startbootstrap-agency.png)
+![startbootstrap-agency](https://github.com/taghp/gatsby-startbootstrap-agency/blob/screenshot/screenshot/startbootstrap-agency.png)
 
 ## Sample page
 
